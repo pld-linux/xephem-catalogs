@@ -39,7 +39,6 @@ dostêpnych pod adresem: http://cdsweb.u-strasbg.fr/cats/cats.html
 Aby u¿yæ tych katalogów musisz w³±czyæ je w podmenu Data/Files
 g³ównego okna XEphema.
 
-
 %package tycho2
 Summary:	Hipparcos/Tycho2 field stars catalog for XEphem
 Summary(pl):	Hipparcos/Tycho2 katalog dla Xephema
