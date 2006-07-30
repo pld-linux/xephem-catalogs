@@ -83,9 +83,11 @@ gunzip $RPM_BUILD_ROOT%{_datadir}/xephem/catalogs/*.gz
 rm -rf $RPM_BUILD_ROOT
 
 %files
+%defattr(644,root,root,755)
 %{_datadir}/xephem/catalogs/ngc.edb
 %{_datadir}/xephem/catalogs/hipparcos.edb
 %{_datadir}/xephem/catalogs/sky2000.edb
 
 %files tycho2
+%defattr(644,root,root,755)
 %{_datadir}/xephem/catalogs/hiptyc2.xe2
