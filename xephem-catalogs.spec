@@ -1,5 +1,5 @@
 Summary:	Additional XEphen catalogs
-Summary(pl):	Dodatkowe katalogi do XEphema
+Summary(pl.UTF-8):   Dodatkowe katalogi do XEphema
 Name:		xephem-catalogs
 Version:	1.0
 Release:	3
@@ -30,20 +30,20 @@ at http://cdsweb.u-strasbg.fr/cats/cats.html
 To use this catalogs you must enable them in Data/Files submenu in main
 XEphem window.
 
-%description -l pl
+%description -l pl.UTF-8
 Dodatkowe katalogi do XEphema w formacie .edb wygenerowane na podstawie
-danych dostêpnych pod adresem: http://cdsweb.u-strasbg.fr/cats/cats.html
+danych dostÄ™pnych pod adresem: http://cdsweb.u-strasbg.fr/cats/cats.html
 
 - Hipparcos Input Catalogue, Version 2 (Turon+ 1993)	(I/196)
 - NGC 2000.0 (Sky Publishing, ed. Sinnott 1988)		(VII/118)
 - SKY2000 Catalog, Version 3 (Myers+ 2000)		(V/105)
 
-Aby u¿yæ tych katalogów musisz w³±czyæ je w podmenu Data/Files g³ównego
+Aby uÅ¼yÄ‡ tych katalogÃ³w musisz wÅ‚Ä…czyÄ‡ je w podmenu Data/Files gÅ‚Ã³wnego
 okna XEphema.
 
 %package tycho2
 Summary:	Hipparcos/Tycho2 field stars catalog for XEphem
-Summary(pl):	Katalog Hipparcos/Tycho2 dla Xephema
+Summary(pl.UTF-8):   Katalog Hipparcos/Tycho2 dla Xephema
 Group:		X11/Applications/Science
 Requires:	xephem >= 3.5
 
@@ -57,19 +57,19 @@ at http://cdsweb.u-strasbg.fr/cats/cats.html
 To use this catalog you must enable it in Data/Field Stars submenu
 in main XEphem window.
 
-%description tycho2 -l pl
+%description tycho2 -l pl.UTF-8
 Katalog Hipparcos/Tycho2 w formacie .xe2 wygenerowany na podstawie danych
-dostêpnych pod adresem: http://cdsweb.u-strasbg.fr/cats/cats.html
+dostÄ™pnych pod adresem: http://cdsweb.u-strasbg.fr/cats/cats.html
 
 - The Hipparcos and Tycho Catalogues (ESA 1997)		(I/239)
 - The Tycho-2 Catalogue (Hog+ 2000)			(I/259)
 
-Aby u¿yæ tego katalogu musisz go w³±czyæ w podmenu Data/Field Stars
-g³ównego okna XEphema.
+Aby uÅ¼yÄ‡ tego katalogu musisz go wÅ‚Ä…czyÄ‡ w podmenu Data/Field Stars
+gÅ‚Ã³wnego okna XEphema.
 
 %package ppm
 Summary:	PPM field stars catalog for XEphem
-Summary(pl):	Katalog PPM dla Xephema
+Summary(pl.UTF-8):   Katalog PPM dla Xephema
 Group:		X11/Applications/Science
 Requires:	xephem >= 3.5
 
@@ -85,8 +85,8 @@ http://cdsweb.u-strasbg.fr/cats/cats.html
 To use this catalog you must enable it in Data/Field Stars submenu
 in main XEphem window.
 
-%description ppm -l pl
-Katalog PPM w formacie .xe2 wygenerowany na podstawie danych dostêpnych
+%description ppm -l pl.UTF-8
+Katalog PPM w formacie .xe2 wygenerowany na podstawie danych dostÄ™pnych
 pod adresem: http://cdsweb.u-strasbg.fr/cats/cats.html
 
 - Positions and Proper Motions - North (Roeser+, 1988)	(I/146)
@@ -94,8 +94,8 @@ pod adresem: http://cdsweb.u-strasbg.fr/cats/cats.html
 - The 90000 stars Supplement to the PPM Catalogue (Roeser+, 1994)
 							(I/208)
 
-Aby u¿yæ tego katalogu musisz go w³±czyæ w podmenu Data/Field Stars
-g³ównego okna XEphema.
+Aby uÅ¼yÄ‡ tego katalogu musisz go wÅ‚Ä…czyÄ‡ w podmenu Data/Field Stars
+gÅ‚Ã³wnego okna XEphema.
 
 %prep
 
