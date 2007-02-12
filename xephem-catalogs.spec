@@ -1,5 +1,5 @@
 Summary:	Additional XEphen catalogs
-Summary(pl.UTF-8):   Dodatkowe katalogi do XEphema
+Summary(pl.UTF-8):	Dodatkowe katalogi do XEphema
 Name:		xephem-catalogs
 Version:	1.0
 Release:	3
@@ -43,7 +43,7 @@ okna XEphema.
 
 %package tycho2
 Summary:	Hipparcos/Tycho2 field stars catalog for XEphem
-Summary(pl.UTF-8):   Katalog Hipparcos/Tycho2 dla Xephema
+Summary(pl.UTF-8):	Katalog Hipparcos/Tycho2 dla Xephema
 Group:		X11/Applications/Science
 Requires:	xephem >= 3.5
 
@@ -69,7 +69,7 @@ głównego okna XEphema.
 
 %package ppm
 Summary:	PPM field stars catalog for XEphem
-Summary(pl.UTF-8):   Katalog PPM dla Xephema
+Summary(pl.UTF-8):	Katalog PPM dla Xephema
 Group:		X11/Applications/Science
 Requires:	xephem >= 3.5
 
