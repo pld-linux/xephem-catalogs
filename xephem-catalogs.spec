@@ -2,7 +2,7 @@ Summary:	Additional XEphen catalogs
 Summary(pl.UTF-8):	Dodatkowe katalogi do XEphema
 Name:		xephem-catalogs
 Version:	1.0
-Release:	3
+Release:	4
 License:	distributable
 Group:		X11/Applications/Science
 Source0:	http://www.yvonnet.org/xephem/sky2000.edb.gz
